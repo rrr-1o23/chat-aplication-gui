@@ -31,7 +31,7 @@ hogehoge
 ### デモ画像
 <div style="text-align: center">
     <img src="./images/login_screen_demo.jpeg" width="500">
-    <p style="text-align: center">ログイン画面</p>
+    <p>ログイン画面</p>
 </div>
 
 &nbsp;
