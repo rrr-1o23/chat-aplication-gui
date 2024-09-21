@@ -1,6 +1,6 @@
 # Chat Application GUI
 
-### [デモ動画はこちら](https://github.com/rrr-1o23/chat-aplication-gui/issues/1#issue-2540406770)
+[**デモ動画はこちら**](https://github.com/rrr-1o23/chat-aplication-gui/issues/1#issue-2540406770)
 
 &nbsp;
 
