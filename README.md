@@ -2,7 +2,6 @@
 
 [**デモ動画はこちら**](https://github.com/rrr-1o23/chat-aplication-gui/issues/1#issue-2540406770)
 
-&nbsp;
 
 ### 使用技術
 **フロントエンド**
