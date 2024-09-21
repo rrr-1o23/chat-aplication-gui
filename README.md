@@ -38,15 +38,15 @@
 
 ### デモ画像
 <div style="text-align: center">
-    <img src="./images/login_screen_demo.jpeg" width="500">
     <p>ログイン画面</p>
+    <img src="./images/login_screen_demo.jpeg" width="500">
 </div>
 
 &nbsp;
 
 <div style="text-align: center">
-    <img src="./images/chat_screen_demo.jpeg" width="500">
     <p>チャット画面</p>
+    <img src="./images/chat_screen_demo.jpeg" width="500">
 </div>
 
 &nbsp;
