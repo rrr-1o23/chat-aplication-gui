@@ -1,7 +1,8 @@
 # Chat Application GUI
 
-### デモ動画
-URL
+### [デモ動画はこちら](https://github.com/rrr-1o23/chat-aplication-gui/issues/1#issue-2540406770)
+
+&nbsp;
 
 ### 使用技術
 **フロントエンド**
@@ -21,12 +22,16 @@ URL
 <img src="https://img.shields.io/badge/-Linux-212121.svg?logo=linux&style=popout">
 <img src="https://img.shields.io/badge/-AWS-252F3E.svg?logo=amazon&style=popout">
 
+&nbsp;
+
 <!--
 <img src="https://img.shields.io/badge/-Node.js-212121.svg?logo=node.js&style=popout"> 
 -->
 
 ### 概要
 hogehoge
+
+&nbsp;
 
 ### デモ画像
 <div style="text-align: center">
