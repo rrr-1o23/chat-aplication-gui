@@ -36,7 +36,8 @@
 
 &nbsp;
 
-### デモ画像
+## デモ画像
+
 <div style="text-align: center">
     <p>ログイン画面</p>
     <img src="./images/login_screen_demo.jpeg" width="500">
