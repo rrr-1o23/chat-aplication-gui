@@ -51,14 +51,14 @@
 
 <div style="text-align: center">
     <p>ログイン画面</p>
-    <img src="./images/login_screen_demo.jpeg" width="500">
+    <img src="./images/login_screen_demo.jpeg" width="100%">
 </div>
 
 &nbsp;
 
 <div style="text-align: center">
     <p>チャット画面</p>
-    <img src="./images/chat_screen_demo.jpeg" width="500">
+    <img src="./images/chat_screen_demo.jpeg" width="100%">
 </div>
 
 &nbsp;
