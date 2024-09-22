@@ -8,16 +8,18 @@
 
 
 ### 使用技術
+
 **フロントエンド**
 <p style="display: inline">
-<img src="https://img.shields.io/badge/-Vue.js-2E4052.svg?logo=vue.js&style=popout">
 <img src="https://img.shields.io/badge/-HTML5-FFFFFF.svg?logo=html5&style=popout">
 <img src="https://img.shields.io/badge/-CSS3-0277BD.svg?logo=css3&style=popout">
+<img src="https://img.shields.io/badge/-Vue.js-2E4052.svg?logo=vue.js&style=popout">
+<img src="https://img.shields.io/badge/-Vuetify-1867C0.svg?logo=vuetify&style=popout">
 
 **バックエンド**
 <p style="display: inline">
-<img src="https://img.shields.io/badge/-Node.js-212121.svg?logo=node.js&style=popout"> 
 <img src="https://img.shields.io/badge/-JavaScript-212121.svg?logo=javascript&style=popout">
+<img src="https://img.shields.io/badge/-Node.js-212121.svg?logo=node.js&style=popout"> 
 <img src="https://img.shields.io/badge/-Socket.IO-010101.svg?logo=socket.io&style=popout">
 
 **インフラ**
@@ -31,8 +33,14 @@
 <img src="https://img.shields.io/badge/-Node.js-212121.svg?logo=node.js&style=popout"> 
 -->
 
-### 概要
-作成中
+## 概要
+このプロジェクトは、チーム開発で作成したリアルタイムチャットアプリケーションです。
+フロントエンドにはVuetifyを採用し、モダンで直感的なUI/UXを実現しました。
+リアルタイム通信にはSocket.IOを使用し、ユーザーがシームレスにメッセージを送受信できるよう設計しました。
+さらに、クライアント側の負荷を軽減するため、可能な限りの処理をサーバー側で実施し、
+これによりスケーラビリティとセキュリティを向上させています。
+また、各機能はモジュール化されており、コードの再利用性と可読性を高める工夫も施しています。
+これにより、メンテナンス性が向上し、将来的な拡張も容易です。
 
 &nbsp;
 
